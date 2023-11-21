@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+#dropdown-basic .dropdown-menu {
+    background-color: #93E499;
+    border-color: #000000;
+  }
+
+  #dropdown-basic .dropdown-item {
+    color: #000000; 
+   
+  }
+  #dropdown-basic .dropdown-toggle{
+    background-color: #93E499;
+    border-color: white;
+
+  }
